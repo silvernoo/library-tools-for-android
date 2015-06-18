@@ -12,3 +12,8 @@ build opensource library &amp; tools for android platform
 8.  wget-1.16.3
 9.  sqlite-3081002
 10. json-c (git clone @ 20150617)
+11. libuv-1.6.1
+12. libpng (1.2 & 1.6)
+13. libogg-1.3.2
+14. libvorbis-1.3.5
+15. libflac-1.3.1
