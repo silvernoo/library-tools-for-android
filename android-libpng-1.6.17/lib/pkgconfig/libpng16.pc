@@ -1,0 +1,11 @@
+prefix=/home/user/dev/android-libpng-1.6.17
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.17
+Libs: -L${libdir} -lpng16
+Libs.private: -lz -lm -ldl -lstdc++ -landroid -llog
+Cflags: -I${includedir}
