@@ -17,3 +17,4 @@ build opensource library &amp; tools for android platform
 13. libogg-1.3.2
 14. libvorbis-1.3.5
 15. libflac-1.3.1
+16. pcre-8.37
