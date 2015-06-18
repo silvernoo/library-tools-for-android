@@ -1,0 +1,11 @@
+prefix=/home/user/dev/android-libuv-1.6.1
+exec_prefix=/home/user/dev/android-libuv-1.6.1
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libuv
+Version: 1.6.1
+Description: multi-platform support library with a focus on asynchronous I/O.
+
+Libs: -L${libdir} -luv -ldl -ldl -lstdc++ -landroid -llog
+Cflags: -I${includedir}
