@@ -1,0 +1,11 @@
+prefix=/home/user/dev/android-qrencode-3.4.4
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libqrencode
+Description: A QR Code encoding library
+Version: 3.4.4
+Libs: -L${libdir} -lqrencode
+Libs.private: 
+Cflags: -I${includedir}
