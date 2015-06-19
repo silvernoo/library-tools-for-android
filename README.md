@@ -19,3 +19,4 @@ build opensource library &amp; tools for android platform
 15. libflac-1.3.1
 16. pcre-8.37
 17. qrencode-3.4.4
+18. bzip2-1.0.6
