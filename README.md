@@ -20,3 +20,4 @@ build opensource library &amp; tools for android platform
 16. pcre-8.37
 17. qrencode-3.4.4
 18. bzip2-1.0.6
+19. libmaxminddb-1.0.4
