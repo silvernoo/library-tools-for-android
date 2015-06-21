@@ -23,3 +23,4 @@ build opensource library &amp; tools for android platform
 19. libmaxminddb-1.0.4 (--enable-static --host=arm-linux-androideabi CFLAGS=-O2)
 20. libjpeg-turbo-1.4.1 (--enable-static --host=arm-linux-androideabi CFLAGS=-O2 --with-jpeg7 --with-jpeg8 --without-java)
 21. openssh-6.8p1 (--host=arm-linux-androideabi --enable-static CFLAGS=-O2 --disable-utmp --disable-utmpx --disable-wtmp --disable-wtmpx)
+22. libiconv-1.14 (--enable-static --host=arm-linux-androideabi CFLAGS=-O2)
